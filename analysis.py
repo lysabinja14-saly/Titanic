@@ -1,7 +1,7 @@
 """
 Titanic Survival: EDA + Baseline Model
 ========================================
-Quick, self-contained data science project:
+A quick, self-contained data science project that analyses the Titanic dataset with a 79% accuracy from the features age, family size, number of embarked passagers, is alone and  :
 1. Load data
 2. Exploratory data analysis (with saved plots)
 3. Feature engineering
